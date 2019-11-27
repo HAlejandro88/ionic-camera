@@ -11,5 +11,5 @@ En este componente creamos tomar una foto desde un dispositivo **movil**:
 ### Propiedades
 | Nombre    | Propiedad | Descripcíon                                     |
 |-----------|-----------|-------------------------------------------------|
-| hacerFoto | Button    | Toma la foto desde el dispositivo y la guarda   |
-| buscarFoto| Button    | Buaca la foto desde el dispositivo y la muestra |
+| hacerFoto | Button    | Toma la foto desde el dispositivo y la muestra en la carta   |
+| buscarFoto| Button    | Busca la foto desde el dispositivo y la muestra en la carta |

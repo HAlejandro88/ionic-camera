@@ -1,5 +1,7 @@
 {
   "name": "PruebaCamara",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

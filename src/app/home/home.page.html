@@ -6,6 +6,7 @@
   </ion-toolbar>
 </ion-header>
 
+
 <ion-content>
   <ion-card>
     <ion-card-header color="success">
@@ -20,6 +21,14 @@
         <ion-icon name="image" icon="icon-only"></ion-icon>
       </ion-button>
     </ion-card-content>
+  </ion-card>
+
+  <ion-card>
+    <ion-button (click)="openCam()">
+      abrir camara
+    </ion-button>
+
+    <img src="{{image}}">
   </ion-card>
   
 </ion-content>
